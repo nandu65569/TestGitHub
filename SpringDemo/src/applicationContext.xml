@@ -7,13 +7,13 @@
     
     <bean id="studentbean" class="Student">
       <property name="rollNo" value="1"></property>
-      <property name="name" value="Amulya"></property>
+      <property name="name" value="Student"></property>
       <property name="marks" value="100"></property>
     </bean>
     
     <bean id="studentbean1" class="Student">
       <property name="rollNo" value="2"></property>
-      <property name="name" value="Amulya1"></property>
+      <property name="name" value="Student1"></property>
       <property name="marks" value="99"></property>
     </bean>
     
